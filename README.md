@@ -8,5 +8,5 @@ Collection of Excel-based analytics projects demonstrating reporting, KPI tracki
 |----------|-------------|
 | State Complaint Analysis | Complaint trend analysis and reporting |
 | BSA Tracker | Debt Settlement & Recovery Performance Tracker |
-| KPI Reporting Dashboard | Operational reporting and performance metrics |
-| Call Center Analytics | Service volume and operational analysis |
+| Master Agency Complaint Tracker | Complaint trend analysis and reporting |
+| Do Not Call (DNC) Trend Analysis |  Do Not Call (DNC) request trends analysis |
