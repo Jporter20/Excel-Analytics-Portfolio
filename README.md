@@ -7,6 +7,6 @@ Collection of Excel-based analytics projects demonstrating reporting, KPI tracki
 | Project | Description |
 |----------|-------------|
 | State Complaint Analysis | Complaint trend analysis and reporting |
-| BSA Tracker | Compliance monitoring and KPI tracking |
+| BSA Tracker | Debt Settlement & Recovery Performance Tracker |
 | KPI Reporting Dashboard | Operational reporting and performance metrics |
 | Call Center Analytics | Service volume and operational analysis |
