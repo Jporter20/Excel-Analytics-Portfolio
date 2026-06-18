@@ -1,1 +1,34 @@
+# Master Agency Complaint Tracker
+
+
+
+## Objective
+Analyze complaint trends by product type, agency vendor, status and category to identify areas requiring operational improvement.
+
+## Tools Used
+- Excel
+- Pivot Tables
+- VLOOKUP
+- Conditional Formatting
+- Charts
+
+## Analysis Performed
+- Total Recovery Complaints Completed vs opened
+- Trend analysis
+- Complaint categories
+- Year-over-Year changes
+
+## Key Insights
+- Identified top agencies/vendors with the highest complaint volume
+- Highlighted recurring complaint categories
+- Track open/ completed complaint statuses
+- Top complaints by product
+- Provided actionable recommendations
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Business Reporting
+
 
